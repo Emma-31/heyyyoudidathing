@@ -1,5 +1,5 @@
 import React from "react"
-import { Link } from "gatsby"
+
 
 
 export default function Home() {
@@ -10,7 +10,7 @@ export default function Home() {
  
 
     <div style={{ margin: `2rem auto`, maxWidth: 600 , color: `purple` }}>
-    <Link to="/contact">Contact</Link>
+   
     <h1>What have you accomplished today? help</h1>
     <p>What a world. </p>
     <Layout>
