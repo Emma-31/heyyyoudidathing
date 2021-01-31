@@ -1,6 +1,5 @@
 import React from "react"
 import { Link } from "gatsby"
-import Header from "/Users/Emma/hello-world/src/pages/components/header"
 
 export default function Contact() {
   return (

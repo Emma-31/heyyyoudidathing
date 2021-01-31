@@ -1,7 +1,5 @@
 import React from "react"
 import { Link } from "gatsby"
-import Header from "/Users/Emma/hello-world/src/pages/components/header"
-import Layout from "/Users/Emma/hello-world/src/pages/components/layout"
 
 
 export default function Home() {
