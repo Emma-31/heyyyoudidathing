@@ -5,30 +5,6 @@ import Layout from "/Users/Emma/hello-world/src/pages/components/layout"
 
 
 export default function Home() {
-<<<<<<< HEAD
-  return <div>
-    <style>
-    
-  
-    </style>
-    It's me Mario
-    <div>This is a test </div>
-    
-    <div> type button 1 </div>
-    <a href="http://google.com">
-    <input type="submit" value = "hey you" class />
-    </a>
-
-  </div>
-        
-
-
-
-
-
-  
-
-=======
 
   return (
     <form>
@@ -47,5 +23,4 @@ export default function Home() {
   </div>
   </form>
   );
->>>>>>> dcc72adab6c54bf22755fcc94b44c174f8688506
 }
