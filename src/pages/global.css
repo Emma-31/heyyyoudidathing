@@ -1,0 +1,37 @@
+html {
+    background-color: lavenderblush;
+
+    position: absolute;
+    width: 800px;
+    height: 437px;
+    left: 0px;
+    top: 0px;
+    
+
+
+  }
+
+  .button2 {
+    font-family: rgb(230, 19, 19), sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    text-transform: none;
+    background-color: rgb(24, 36, 168);
+    color: rgb(253, 253, 253);
+    border-radius: 3.75em;
+    border: none;
+    transition: all 0.15s ease-in-out 0s;
+    margin-top: 16px;
+    padding: 15px 25px;
+}
+
+.dogpicture {
+
+    position: absolute;
+width: 914px;
+height: 381px;
+left: 32px;
+top: 404px;
+
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
