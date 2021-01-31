@@ -13,11 +13,11 @@ export default function Home() {
    
     <h1>What have you accomplished today? help</h1>
     <p>What a world. </p>
-    <Layout>
+  
    {
     <img src="https://images.unsplash.com/photo-1540991825428-5b54b09f7338?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1197&q=80" alt="" class="dogpicture" />
   }
-    </Layout>
+  
   </div>
   </form>
   );
